@@ -1,0 +1,11 @@
+y = mx + q
+
+r = x*cos(0) + y*sin(0)
+
+y*sin(0) = -x * cos(0) + r
+
+y = -x * (cos(0)/sin(0)) + r/sin(0)
+
+m = -cos(0)/sin(0)
+
+q = r/sin(0)
